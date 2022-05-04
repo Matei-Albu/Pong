@@ -1,8 +1,8 @@
 # Pong
 Two person Pong game in C++
 
-#Features
+## Features
 Tracks score
 
-#Requirements
+## Requirements
 Must install SFML graphic library before compiling game
